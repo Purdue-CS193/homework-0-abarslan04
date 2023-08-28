@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 - Good things about CS193
 - One credit hour
-- cool TA's
+- cool TA
 - Easy Homework
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
