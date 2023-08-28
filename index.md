@@ -25,6 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Ahmet's first CS193 Homework
+
+- Good things about CS193
+- One credit hour
+- cool TA's
+- Easy Homework
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
